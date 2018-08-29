@@ -90,8 +90,11 @@ Here I tried to reference the most recent article found on specific software sin
 
 - [Semi-honest BMR](https://github.com/cryptobiu/Semi-Honest-BMR) - BMR protocol secure against semi-honest adversaries | [2016/1066](https://eprint.iacr.org/2016/1066).
 - [FairPlayMP](https://github.com/FaiplayMP/FairplayMP) - GMW based multi-party protocol secure against semi-honest adversaries | [CCS'08](http://www.cs.huji.ac.il/project/Fairplay/FairplayMP/FairplayMP.pdf).
+- [PICCO](https://github.com/PICCO-Team/picco) - 3 PC with secret sharing; circuit compiler, secure against semi-honest adveraries | [CCS'13](https://www.acsu.buffalo.edu/~mblanton/publications/ccs13.pdf).
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
+
+
 
 ## Contribute
 
